@@ -1,4 +1,4 @@
-## Olá seja bem vindo(a)!
+## Olá, seja bem vindo(a)!
 <div align="center">
   <a href="https://github.com/camila-blip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camila-blip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
